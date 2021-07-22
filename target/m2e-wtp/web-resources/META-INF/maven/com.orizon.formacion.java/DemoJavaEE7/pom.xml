@@ -35,6 +35,13 @@
 			<version>1.2</version>
 		</dependency>
 		
+		<!-- Driver base de datos mySLQ -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.25</version>
+		</dependency>
+		
     </dependencies>
 
     <build>
